@@ -14,9 +14,9 @@ If you find this repository useful, please consider citing our paper.
 
 ### Dependencies 
 
-  - Python>=3.7.6
-  - PyTorch>=1.6.0
-  - Transformers>=3.0.2
+  - Python==3.7.6
+  - PyTorch==1.6.0
+  - Transformers==3.0.2
     
 ### Pre-trained Models
 
